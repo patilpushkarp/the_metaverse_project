@@ -1,2 +1,2 @@
-# the_metaverse_projeect
+# The Metaverse Project
 Repository for understanding Metaverse
