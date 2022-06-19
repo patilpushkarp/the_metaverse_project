@@ -3,3 +3,10 @@
 
 format: jb-book
 root: intro
+chapters:
+  - file: docs/intro.md
+  - file: docs/characteristics.md
+  - file: docs/economics.md
+    sections:
+    - file: docs/investments.md
+  - file: references.md

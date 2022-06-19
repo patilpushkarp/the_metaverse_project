@@ -1,0 +1,3 @@
+# Metaverse Investments
+
+Leading investment houses are building are releasing top stock picks for investing in the metaverse. The Roundhill Ball Metaverse ETF launched by Roundhill Investments provides comprehensive exposure to a few of the good metaverse stocks. Spanning about 40 investments, meta ETFS are predicted to be reaching a market of $800 billion by 2024, according to Bloomberg Intelligence. This predicted growth still accounts for only Web 2.0 companies, ignoring the vast potential of the Web 3.0 economy.  {cite}`mitselmakher_2021`. 
