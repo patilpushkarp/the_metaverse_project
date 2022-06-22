@@ -6,7 +6,8 @@ root: intro
 chapters:
   - file: docs/intro.md
   - file: docs/characteristics.md
-  - file: docs/economics.md
+  - file: docs/layers.md
+  - file: docs/economics_and_finances.md
     sections:
     - file: docs/investments.md
   - file: references.md

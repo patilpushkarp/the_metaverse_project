@@ -7,4 +7,9 @@ Economic times puts the metaverse as a network of 3D virtual worlds focused on s
 
 ## Metaverse Experience
 
-The metaverse can either be a completely virtual digital world or it can be our surroundings with a mobile digital overlay (an augmented reality approach) {cite}`metamandrill_2022_metaverse`. The development of virtual reality and augmented reality technologies accelerated the build-up of social connections virtually. These technologies are supplementing the virtual worlds and improving their adoption. The metaverse is also backed by blockchain for facilitating transactions. 
+The metaverse can either be a completely virtual digital world or it can be our surroundings with a mobile digital overlay (an augmented reality approach) {cite}`metamandrill_2022_metaverse`. The development of virtual reality and augmented reality technologies accelerated the build-up of social connections virtually. These technologies are supplementing the virtual worlds and improving their adoption. The metaverse is also backed by blockchain for facilitating transactions. Metaverse can be experienced with the following devices:
+1. Virtual Reality Headset
+2. Augmented Reality Gear
+3. Gaming Console
+4. Computer / Laptops
+5. Mobile
