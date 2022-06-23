@@ -6,8 +6,10 @@ root: intro
 chapters:
   - file: docs/intro.md
   - file: docs/characteristics.md
+  - file: docs/pros_and_cons.md
   - file: docs/layers.md
-  - file: docs/economics_and_finances.md
+  - file: docs/ecofin/economics_and_finances.md
     sections:
-    - file: docs/investments.md
+    - file: docs/ecofin/investments.md
+  - file: docs/use_case/use_case_intro.md
   - file: references.md
