@@ -11,7 +11,7 @@ Main reasons for joining the metaverse according to internet users worldwide in 
 ```
 Remote working possibilities, art and live entertainment, and investment opportunities are the top reasons to join the metaverse. The demand for these products and services is the basis for the use cases of the metaverse in different industries. 
 Since the virtual world enables users to experience certain things which they can't in real life, the following are the activities that users are most likely to undertake in the virtual world but not in real life.
-```{figure} ./../../assets/reasons_to_join.png
+```{figure} ./../../assets/things_to_do.png
 ---
 name: directive-fig
 ---
@@ -42,3 +42,11 @@ Following are the sectors which have started investing in the projects related t
 14. Retail
 15. Defense
 16. Entertainment
+
+According to a March 2022 survey of companies from selected countries that have already invested in the metaverse, more than half of responding businesses stated that they invested in cryptocurrencies. NFTs were ranked second. Work environment and remote work were ranked third, with 40 percent of respondents stating that they invested in projects pertaining to this sector.
+```{figure} ./../../assets/project_types.png
+---
+name: directive-fig
+---
+Types of project in which companies invested
+```
