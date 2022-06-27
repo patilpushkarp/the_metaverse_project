@@ -12,4 +12,6 @@ chapters:
     sections:
     - file: docs/ecofin/investments.md
   - file: docs/use_case/use_case_intro.md
+    sections:
+    - file: docs/use_case/company_investments.md
   - file: references.md
